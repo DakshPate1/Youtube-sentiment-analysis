@@ -1,0 +1,17 @@
+# Exclude specific files
+*.pkl
+config.py
+
+# Exclude directories
+data/
+__pycache__/
+
+# Exclude temporary or build files
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.pyc
+*.swp
+*~
