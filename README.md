@@ -22,8 +22,8 @@ This is a YouTube Sentiment Analysis project that aims to analyze the sentiment 
 
 ## Project Structure
 - `youtube_sentiment_analysis.ipynb`: The Jupyter Notebook containing the main code and analysis steps of the project.
-- `model_building.py`: Python script for model training and evaluation.
-- Pickle files containing the trained models using TF-IDF and CountVectorizer are not included in this repsitory to save bloating, you may create them while training models(code already present to generate pkl files in `model_building.py`
+- `model_building.ipynb`: Python script for model training and evaluation.
+- Pickle files containing the trained models using TF-IDF and CountVectorizer are not included in this repsitory to save bloating, you may create them while training models(code already present to generate pkl files in `model_building.ipynb`
 
 ## How to Use
 1. Run the Jupyter Notebook `youtube_sentiment_analysis.ipynb`. This notebook provides step-by-step instructions on how to extract top comments from a YouTube video and perform sentiment analysis using various machine learning models.
